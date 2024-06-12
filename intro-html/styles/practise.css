@@ -1,0 +1,70 @@
+.t1xt {
+    font-style: montserrat;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.t2xt {
+    font-style: montserrat;
+    font-size: 20px;
+    color: gray;
+}
+
+.text-01 {
+    font-family: montserrat;
+    font-size: 18px;
+    color: rgb(22, 181, 22);
+}
+
+.text-03 {
+    font-family: montserrat;
+    font-size: 18px;
+    color: gray;
+}
+
+.text-04 {
+    font-family: montserrat;
+    font-size: 18px;
+    color: rgb(195, 0, 0);
+}
+
+.text-05 {
+    font-family: montserrat;
+    font-size: 18px;
+}
+
+.text-06 {
+    font-family: montserrat;
+    font-size: 18px;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.text-06:hover {
+    text-decoration: underline;
+
+}
+
+.text-07 {
+    font-family: Arial;
+    font-size: 15px;
+    color: gray;
+    margin-left: 3px;
+}
+
+.inpt-1 {
+    font-size: 15px;
+    color: gray;
+    width: 500px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 28px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+}
+
+.text-08 {
+    font-family: Arial;
+    color: rgb(100, 100, 100);
+}
